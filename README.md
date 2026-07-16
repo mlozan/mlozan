@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**mlozan/mlozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Statistics
 
-Here are some ideas to get you started:
+<br/>
+<p align="left">
+  <a href="https://mlozan.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mlozan&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mlozan&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Maria's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mlozan&custom_title=Maria%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://mlozan.dev)
+
